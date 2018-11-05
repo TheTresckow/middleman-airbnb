@@ -1,0 +1,18 @@
+- name: london
+  country: UK
+  user_name: John
+  rating: 4
+  area: Picadilly
+  description: "Nice flat in Picadilly"
+- name: paris
+  country: France
+  user_name: Bob
+  rating: 2
+  area: Montmatre
+  description: "Charming room in Montmatre"
+- name: tokyo
+  country: Japan
+  user_name: Carl
+  area: Tokio
+  rating: 3
+  description: "Small flat in Tokio"
